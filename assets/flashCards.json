@@ -1,0 +1,65 @@
+{
+    "flashcards": [
+      {
+        "id": 1,
+        "question": "Le soleil est une étoile.",
+        "answer": "vrai",
+        "explanation": "Le Soleil est une étoile de type naine jaune située au centre du système solaire. Il produit de l'énergie par fusion nucléaire."
+      },
+      {
+        "id": 2,
+        "question": "L’oxygène est le gaz le plus abondant dans l’atmosphère terrestre.",
+        "answer": "faux",
+        "explanation": "L'azote est le gaz le plus abondant dans l'atmosphère terrestre, représentant environ 78% de l'air. L'oxygène ne représente qu'environ 21%."
+      },
+      {
+        "id": 3,
+        "question": "Le Mont Everest est la montagne la plus haute du monde.",
+        "answer": "vrai",
+        "explanation": "Le Mont Everest est la plus haute montagne du monde avec une altitude d'environ 8 849 mètres au-dessus du niveau de la mer."
+      },
+      {
+        "id": 4,
+        "question": "L’eau bout à 90°C à pression atmosphérique normale.",
+        "answer": "faux",
+        "explanation": "À pression atmosphérique normale (au niveau de la mer), l'eau bout à 100°C. Cependant, à haute altitude, la pression diminue et l'eau bout à une température plus basse."
+      },
+      {
+        "id": 5,
+        "question": "Le Japon est composé de plus de 6000 îles.",
+        "answer": "vrai",
+        "explanation": "Le Japon est un archipel composé d'environ 6 852 îles, bien que seulement 430 d'entre elles soient habitées."
+      },
+      {
+        "id": 6,
+        "question": "Les dauphins sont des mammifères.",
+        "answer": "vrai",
+        "explanation": "Les dauphins sont des mammifères marins. Ils respirent de l'air avec leurs poumons, donnent naissance à des petits vivants et les allaitent."
+      },
+      {
+        "id": 7,
+        "question": "Un triangle équilatéral a toujours deux côtés de même longueur.",
+        "answer": "faux",
+        "explanation": "Un triangle équilatéral a ses trois côtés de même longueur, et non seulement deux."
+      },
+      {
+        "id": 8,
+        "question": "La tour Eiffel a été construite en 1889.",
+        "answer": "vrai",
+        "explanation": "La tour Eiffel a été inaugurée en 1889 à l'occasion de l'Exposition universelle de Paris. Elle a été conçue par Gustave Eiffel."
+      },
+      {
+        "id": 9,
+        "question": "Les humains ont 4 reins.",
+        "answer": "faux",
+        "explanation": "Les humains ont généralement deux reins. Cependant, certaines personnes peuvent en donner un sans impact majeur sur leur santé."
+      },
+      {
+        "id": 10,
+        "question": "Les pingouins vivent en Antarctique.",
+        "answer": "vrai",
+        "explanation": "Les manchots (souvent appelés 'pingouins' à tort) vivent en Antarctique. Les vrais pingouins vivent plutôt dans l'hémisphère nord."
+      }
+    ]
+  }
+  
